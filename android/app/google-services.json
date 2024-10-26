@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048149007808",
+    "project_id": "ambulancebooking-dcdf3",
+    "storage_bucket": "ambulancebooking-dcdf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048149007808:android:3567cf9321c8772de03c25",
+        "android_client_info": {
+          "package_name": "com.example.amdulancebooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXURg7LhHnz9NVGbS0VEXOrIWsIpvKMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
