@@ -50,7 +50,7 @@ class _UserAmbulanceViaHospitalsState extends State<UserAmbulanceViaHospitals> {
           icon: const Icon(Icons.arrow_back_ios_new),
         ),
         title: const Text(
-          "View Dishes",
+          "View Ambulances",
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Colors.white,
